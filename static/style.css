@@ -1,0 +1,67 @@
+.Image{
+    height: 100px;
+width:150px;
+padding:0px;
+border:0px;
+margin:0px 60% 0px 40%;
+}
+body{
+    background-color: lavender;
+    /* background-image: url("bg4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   */
+
+}
+form.class{
+    padding:10px 50px 3px 5px;
+    border:2px solid black;
+    margin:100px 600px 100px 600px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:750;
+    border-radius: 10px;
+}
+.wide-input{
+    width:250px;
+    height:20px;
+}
+#submit{
+    color:White;
+    background-color: black;
+}
+#Search{
+    
+    color:White;
+    background-color: black;
+}
+a:hover {
+  color: #ff6347;
+  text-decoration: underline;
+  background-color: #f0f0f0;
+  transition: 0.3s ease;
+}
+h1{
+    text-align: center;
+
+}
+.table{
+    table-layout:flex;
+    border:2px solid black;
+    padding:10px;
+    margin:80px;
+    text-align: left;
+    
+    
+}
+form.index{
+    padding:10px 50px 3px 5px;
+    border:2px solid black;
+    margin:100px 600px 100px 600px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:750;
+    border-radius: 20px;
+    
+}
+form.query{
+margin: 100px 600px 100px 600px;
+}
